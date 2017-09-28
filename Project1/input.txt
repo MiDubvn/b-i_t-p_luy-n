@@ -1,0 +1,4 @@
+nguyen_van_a	2152673	4	5	5
+nguyen_van_b	2152673	4	10	4
+nguyen_van_c	2152673	4	9.5	7
+nguyen_van_d	2152673	4	7.5	6
