@@ -43,7 +43,7 @@ void themnhieumaychoigame(game a[], int &n)
 }
 void main() {
 	game a;
-	int a = , n;
+	int a = n;
 	int chon = 1, tieptuc;
 	do
 	{
